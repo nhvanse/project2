@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/van/Desktop/Project2/demo/mymodel.tflearn"
+all_model_checkpoint_paths: "/home/van/Desktop/Project2/demo/mymodel.tflearn"
